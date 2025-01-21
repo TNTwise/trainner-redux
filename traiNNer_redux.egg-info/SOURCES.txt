@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+pyproject.toml
+traiNNer/__init__.py
+traiNNer_redux.egg-info/PKG-INFO
+traiNNer_redux.egg-info/SOURCES.txt
+traiNNer_redux.egg-info/dependency_links.txt
+traiNNer_redux.egg-info/requires.txt
+traiNNer_redux.egg-info/top_level.txt
